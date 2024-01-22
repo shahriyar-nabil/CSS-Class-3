@@ -1,0 +1,5 @@
+-> hover
+-> display
+-> transition
+-> position
+-> z-index
